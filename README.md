@@ -4,7 +4,7 @@
 <div style="background-color: #282c34; padding: 30px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center; color: white;">
   <h1 style="font-size: 48px; font-weight: bold; margin-bottom: 10px;">Mini Projects</h1>
   <p style="font-size: 20px; margin-bottom: 20px;">A collection of small projects to showcase my skills and creativity.</p>
-  <img src="https://www.pexels.com/photo/black-background-with-text-overlay-screengrab-270404/" alt="Mini Projects Logo" style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 20px; border: 5px solid white;">
+  <img src="[https://www.pexels.com/photo/black-background-with-text-overlay-screengrab-270404/" alt="Mini Projects Logo](https://www.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281.htm#query=web%20developer&position=1&from_view=keyword&track=ais_user&uuid=50a00428-b5c6-4bb6-b119-38bc090e5e23)" style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 20px; border: 5px solid white;">
 </div>
 
 <!-- Introduction -->
