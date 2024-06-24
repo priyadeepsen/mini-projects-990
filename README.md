@@ -1,13 +1,9 @@
 <!-- README.md -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
-
-<!-- README.md -->
 
 <!-- Mini Projects Banner -->
 <div style="background-color: #282c34; padding: 30px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center; color: white;">
   <h1 style="font-size: 48px; font-weight: bold; margin-bottom: 10px;">Mini Projects</h1>
   <p style="font-size: 20px; margin-bottom: 20px;">A collection of small projects to showcase my skills and creativity.</p>
-  <img src="https://via.placeholder.com/150" alt="Mini Projects Logo" style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 20px; border: 5px solid white;">
 </div>
 
 <!-- Introduction -->
@@ -41,15 +37,5 @@ cd mini-projects-990
 </code>
   </pre>
 </div>
-
-<!-- Add Font Awesome for icons -->
-<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-
-<style>
-  h2:hover span {
-    transform: scaleX(1);
-    transform-origin: bottom left;
-  }
-</style>
 
 </style>
