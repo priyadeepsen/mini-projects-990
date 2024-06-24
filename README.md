@@ -4,7 +4,7 @@
 <div style="background-color: #282c34; padding: 30px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center; color: white;">
   <h1 style="font-size: 48px; font-weight: bold; margin-bottom: 10px;">Mini Projects</h1>
   <p style="font-size: 20px; margin-bottom: 20px;">A collection of small projects to showcase my skills and creativity.</p>
-  <img src="https://via.placeholder.com/150" alt="Mini Projects Logo" style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 20px; border: 5px solid white;">
+  <img src="https://www.pexels.com/photo/black-background-with-text-overlay-screengrab-270404/" alt="Mini Projects Logo" style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 20px; border: 5px solid white;">
 </div>
 
 <!-- Introduction -->
