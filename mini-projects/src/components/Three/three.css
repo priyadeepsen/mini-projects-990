@@ -1,0 +1,38 @@
+/* three.css */
+
+/* Add some basic styling to the container div */
+.three-container {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style the input field */
+  .three-input {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+  }
+  
+  /* Add some basic styling to the paragraph */
+  .three-paragraph {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  /* Add some hover effect to the input field */
+  .three-input:hover {
+    border-color: #aaa;
+  }
+  
+  /* Add some focus effect to the input field */
+  .three-input:focus {
+    border-color: #66d9ef;
+    box-shadow: 0 0 10px rgba(102, 217, 239, 0.5);
+  }
